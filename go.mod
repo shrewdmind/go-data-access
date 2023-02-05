@@ -1,4 +1,4 @@
-module github.com/shrewdmind/go/data-aceess
+module github.com/shrewdmind/go-data-aceess
 
 go 1.20
 
